@@ -2,7 +2,7 @@
   "version": "2.0",
   "customHandler": {
     "description": {
-      "defaultExecutablePath": "handler_0_1_0",
+      "defaultExecutablePath": "handler_0_1_1",
       "workingDirectory": "",
       "arguments": []
     },
